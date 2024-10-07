@@ -5,7 +5,7 @@ export default function navbar() {
     return (
         <div className="bg-[#1E1D26]">
             <div className="mx-auto max-w-6xl">
-                <div className="flex justify-between py-3 px-2 items-center sm:py-8">
+                <div className="flex justify-between py-3 px-2 items-center sm:py-6">
                     <Link href="/">
                         <h1 className="text-white text-2xl italic sm:text-3xl sm:font-bold">
                             recipe4me
@@ -27,7 +27,7 @@ export default function navbar() {
                                     href="/recipes"
                                     className="text-white font-extrabold text-sm"
                                 >
-                                    Recipes
+                                    Account
                                 </Link>
                             </li>
                             <li className="hidden sm:inline">
