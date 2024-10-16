@@ -1,1 +1,1 @@
-This a practice project for Nextjs
+This a practice project for Nextjs..
